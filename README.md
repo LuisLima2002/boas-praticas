@@ -1,5 +1,5 @@
 # Boas Práticas de Desenvolvimento
-Lista de Boas Práticas LabSub.
+Lista de Boas Práticas LaSub.
 
 ##Branches do projeto
 1. stable: essa branch contém o último código do projeto que foi testado e aprovado
